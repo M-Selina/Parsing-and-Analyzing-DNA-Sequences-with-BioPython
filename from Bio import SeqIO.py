@@ -3,11 +3,11 @@ from Bio import SeqIO
 import csv
 
 # SETTINGS
-blast_output_file = "/Users/selina/Downloads/Project foldernew/hits.tsv"
-bacteria_fasta_file = "/Users/selina/Downloads/Project foldernew/uniprotkb_Enterobacteriaceae_bacterium_2025_05_04.fasta"
-filtered_output_file = "/Users/selina/Downloads/Project foldernew/filtered_hits.tsv"
-summary_output_file = "/Users/selina/Downloads/Project foldernew/hit_summary.tsv"
-extracted_fasta_file = "/Users/selina/Downloads/Project foldernew/matched_bacterial_sequences.fasta"
+blast_output_file = "/Project foldernew/hits.tsv"
+bacteria_fasta_file = "/Downloads/Project foldernew/uniprotkb_Enterobacteriaceae_bacterium_2025_05_04.fasta"
+filtered_output_file = "/Downloads/Project foldernew/filtered_hits.tsv"
+summary_output_file = "/Downloads/Project foldernew/hit_summary.tsv"
+extracted_fasta_file = "/Downloads/Project foldernew/matched_bacterial_sequences.fasta"
 
 
 # Thresholds
