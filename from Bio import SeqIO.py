@@ -1,7 +1,8 @@
+#Indentifying the eukaryotic sequence for DNA polymerase 
 from Bio import SeqIO
 import csv
 
-# === SETTINGS ===
+# SETTINGS
 blast_output_file = "/Users/selina/Downloads/Project foldernew/hits.tsv"
 bacteria_fasta_file = "/Users/selina/Downloads/Project foldernew/uniprotkb_Enterobacteriaceae_bacterium_2025_05_04.fasta"
 filtered_output_file = "/Users/selina/Downloads/Project foldernew/filtered_hits.tsv"
